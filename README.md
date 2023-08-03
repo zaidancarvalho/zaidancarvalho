@@ -26,8 +26,6 @@
 <div>
  <a href="https://www.youtube.com/watch?v=io-tr1Z2Cdk&feature=youtu.be" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jFcCaycv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/felipe-carvalho-fernandez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-fernandez-412a1623b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-  
-  ![snake gif](https://github.com/zaidancarvalho/zaidancarvalho/blob/output/github-contribution-grid-snake.svg)
